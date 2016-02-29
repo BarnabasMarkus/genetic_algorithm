@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # G E N E T I C   A L G O R I T H M
 
+# Project   Genetic Algorithm with Python
+# Author    Barnabas Markus
+# Email     barnabasmarkus@gmail.com
+# Date      29.02.2016
+# Python    3.5.1
+# License   MIT
+
 import math
 import random
 
