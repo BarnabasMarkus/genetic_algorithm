@@ -40,7 +40,8 @@ class Population:
         # print(pop_score[0][0])
         return ranked_pop
 
-    def get_vec_score(self, vec):
+    @staticmethod
+    def get_vec_score(vec):
         """ Get Score of Vector """
         vec_score = 0
         for v in vec:
